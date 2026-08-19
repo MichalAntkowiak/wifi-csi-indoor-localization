@@ -11,7 +11,7 @@ Projekt realizowany na Wydziale Mechatroniki Politechniki Warszawskiej.
 ### 1. Pierwsze odebrane fale CSI
 Pierwsze testy transmisji i parsowania surowych podnośnych CSI przesyłanych przez port szeregowy z mikrokontrolera ESP32 do skryptu wizualizacyjnego w Pythonie.
 
-![Pierwsze fale CSI](images/01_pierwsze_fale.png)
+![Pierwsze fale CSI](images/01_pierwsze_fale.jpg)
 *Rys. 1: Pierwsze pakiety CSI odebrane i wyrysowane w czasie rzeczywistym.*
 
 ---
